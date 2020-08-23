@@ -11,8 +11,12 @@ or
 
 https://www.kaggle.com/ronitf/heart-disease-uci
 
-2. Download the "Predic Heart Disease.py" file and copy the sections of the code into Jupyters Notebook
+2. Download the "Predic Heart Disease.py" file and copy the sections of the code into Jupyters Notebook 
 
-3. Run each code cell sequentially and get the accuracy and results
+3. Install the libraries used on your PC
+
+4. Change the name of CSV data file in your code
+
+3. Run each code cell sequentially.
 
 
