@@ -151,7 +151,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.optimizers import Adam
 
-print("CNN Classifier (Model 1)")####################################################################################
+print("NN Classifier (Model 1)")####################################################################################
 
 model = Sequential()
 model.add(Dense(16, input_dim=3, activation = 'relu' ))
@@ -167,7 +167,7 @@ model.fit(X_train, Y_train, validation_data=(X_test, Y_test),epochs=100, batch_s
 
 
 
-print("CNN Classifier (Model 2)")####################################################################################
+print("NN Classifier (Model 2)")####################################################################################
 model = Sequential()
 model.add(Dense(12, input_dim=3, activation='relu'))
 model.add(Dense(8, activation='relu'))
