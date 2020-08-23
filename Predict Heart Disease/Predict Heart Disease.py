@@ -200,7 +200,7 @@ print((cm_test[0][0] + cm_test[1][1])/len(y_test))
 
 
 ###############################################################################################################################################
-print("CNN Classifier")
+print("Neural Network Classifier")
 import sys
 import numpy as np
 import sklearn
