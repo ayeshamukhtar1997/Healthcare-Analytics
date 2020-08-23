@@ -25,9 +25,18 @@ or open Anaconda prompt and run the following command
 
 1. Download the dataset from https://physionet.org/content/mitdb/1.0.0/
 
-2. Run the "Preprocessing.py" file and adjust the paths
+2. Download and run the "Preprocessing.py" file by copying the contents in Jupyter Notebook
 
-3. Run the "CNN Train.py" file in jupyter notebook
+3. Adjust the paths to dataset in both files
+
+4. Download and run the "CNN Train.py" file in jupyter notebook. Run different CNN models separately.
+
+
+## Fever Prediction
+
+1. Download the TempBeat.py file 
+2. Download dataset Cleaveland.csv
+3. Run the contents of pyyhon file in Jupyter Notebook.
 
 
 
